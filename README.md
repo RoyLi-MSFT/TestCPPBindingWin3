@@ -1,0 +1,2 @@
+# TestCPPBindingWin3
+ SampleForTest
